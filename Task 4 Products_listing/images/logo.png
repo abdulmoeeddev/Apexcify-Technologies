@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="300" viewBox="0 0 800 300">
+  <!-- Apexcify Logo -->
+  <defs>
+    <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF6B00" />
+      <stop offset="20%" stop-color="#FF0099" />
+      <stop offset="40%" stop-color="#FF6B00" />
+      <stop offset="60%" stop-color="#8BC34A" />
+      <stop offset="80%" stop-color="#00BCD4" />
+      <stop offset="100%" stop-color="#3F51B5" />
+    </linearGradient>
+  </defs>
+  
+  <!-- A letter -->
+  <path d="M150 50 L200 250 L100 250 Z" fill="#FF6B00" />
+  
+  <!-- p letter -->
+  <path d="M220 100 Q270 100 270 150 Q270 200 220 200 L220 250" stroke-width="30" stroke="#FF0099" fill="transparent" stroke-linecap="round" />
+  
+  <!-- e letter -->
+  <path d="M320 175 Q320 125 370 125 Q420 125 420 175 L320 175 Q320 225 370 225 Q420 225 420 175" stroke-width="30" stroke="#FF6B00" fill="transparent" stroke-linecap="round" />
+  
+  <!-- x letter -->
+  <path d="M440 100 L490 200 M440 200 L490 100" stroke-width="30" stroke="#8BC34A" fill="transparent" stroke-linecap="round" />
+  
+  <!-- c letter -->
+  <path d="M540 125 Q510 125 510 175 Q510 225 540 225 Q570 225 570 175" stroke-width="30" stroke="#00BCD4" fill="transparent" stroke-linecap="round" />
+  
+  <!-- i letter -->
+  <circle cx="590" cy="125" r="15" fill="#3F51B5" />
+  <path d="M590 150 L590 200" stroke-width="30" stroke="#3F51B5" fill="transparent" stroke-linecap="round" />
+  
+  <!-- f letter -->
+  <path d="M630 100 L630 250 M610 150 L650 150 M610 100 L650 100" stroke-width="30" stroke="#6200EA" fill="transparent" stroke-linecap="round" />
+  
+  <!-- y letter -->
+  <path d="M670 100 L700 175 L730 100 M700 175 L700 250" stroke-width="30" stroke="#00BCD4" fill="transparent" stroke-linecap="round" />
+  
+  <!-- Technologies text -->
+  <text x="400" y="280" font-family="Arial, sans-serif" font-size="40" text-anchor="middle" fill="#00BCD4">Technologies</text>
+</svg>
