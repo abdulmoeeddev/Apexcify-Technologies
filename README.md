@@ -1,3 +1,4 @@
+This is a simple HTML, CSS, JAVASCRIPT code each file have different code and easy to understand
 Setup to run the project
 write this command in your vs code terminal => "python -m http.server 8000"
 Then on google add link (localhost:8000) 
